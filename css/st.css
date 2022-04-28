@@ -88,9 +88,12 @@ h3{
     left: 50%;
     transform: translate(-50%,-50%);
     text-align: center;
+    width: 80%;
+    height: 40%;
+    
 }
 h2{
-    height: auto;
+    margin-top: 8%;
     font-size: 3.4em;
     color:white;
     line-height: 20%;
@@ -714,6 +717,7 @@ h2{
 /* ----------------------------------------------------Recent News---------------------------------------------------- */
 .news{
     height: 110vh;
+    background-color: red;
 }
 
 .news-container{
