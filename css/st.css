@@ -115,7 +115,7 @@ h2{
     
 }
 .btn:hover{
-    background-color:gray;
+    background-color:rgb(28, 144, 152);
 }
 .start{
     margin-right: 10px;
@@ -769,7 +769,7 @@ h2{
     position: absolute;
     margin:0px 7%;
     z-index: 10;
-    color:rgb(170, 48, 218);
+    color:rgb(116, 33, 149);
 }
 
 .news-content::after{
